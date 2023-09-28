@@ -33,6 +33,5 @@ Please let me know if there's anything else you'd like to include or modify in t
 
 1. After adding products, the program will display the names of the products and their corresponding prices.
 
-## Execution Example
 # NOTE: The ItemManifest.csv only has real values for the following item: Watermelon, Apple, Banana and Egg. All other values are dummy values meant to test the partial loading capabilities of the code.
 
