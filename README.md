@@ -35,4 +35,4 @@ Please let me know if there's anything else you'd like to include or modify in t
 
 ## Execution Example
 # NOTE: The ItemManifest.csv only has real values for the following item: Watermelon, Apple, Banana and Egg. All other values are dummy values meant to test the partial loading capabilities of the code.
-# NOTE: For some reason running the code while the `src/` folder is within another folder causes the code to not read the .csv file. Please run just the `src` folder by itself for the code to work as intended. 
+
